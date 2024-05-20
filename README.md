@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 👨🏻‍🎓 Computer Sciense student at UFSJ; <br>
+- 👨🏻‍🎓 Computer Science student at UFSJ; <br>
 - 👨🏻‍💻 Working a Dev. Web, Designer and VideoMaker at Taco Marketing Inteligente; <br>
 <br>
 <!--Intro end-->
