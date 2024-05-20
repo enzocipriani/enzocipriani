@@ -24,7 +24,8 @@
 
 <!--Intro start-->
 - 👨🏻‍🎓 Computer Science student at UFSJ; <br>
-- 👨🏻‍💻 Working a Dev. Web, Designer and VideoMaker at Taco Marketing Inteligente; <br>
+- 👨🏻‍💻 Working as a Full Stack Dev.; <br>
+- 💼 Agência Tacco and E2T Code. <br>
 <br>
 <!--Intro end-->
 
